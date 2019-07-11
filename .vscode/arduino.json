@@ -1,5 +1,5 @@
 {
-    "sketch": "app.ino",
+    "sketch": "experimentos\\4-Toc-toc\\4_toc_toc.ino",
     "port": "COM3",
     "board": "arduino:avr:uno"
 }
